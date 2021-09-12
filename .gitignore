@@ -13,7 +13,6 @@ trace/runtimelog/
 d4j_resources/metadata_cached/*
 trace/logs/mytrace/ProbGraph*
 trace/logs/*
-triggertest/*
 abstract_message/*
 combinefl/*
 extract_message/*

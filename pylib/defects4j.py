@@ -414,7 +414,7 @@ def parseproj(proj: str, debug=True):
 
 @func_set_timeout(3600)
 def fl(proj: str, id: str, debug=True):
-    banlist = ['Math13','Math14','Lang2','Time21']
+    banlist = ['Lang2','Time21']
     if((proj+id).strip() in banlist):
         return
     #cleanupcheckout(proj, id)
