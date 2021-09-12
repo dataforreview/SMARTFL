@@ -1,0 +1,10 @@
+Belief propagation time: 50
+
+Probabilities: 
+Vars:11069
+Stmts:1435
+org.apache.commons.math.stat.Frequency:addValue:(Ljava/lang/Object;)V#134#74 prob_bp = 0.00000000000000000000
+org.apache.commons.math.stat.Frequency:addValue:(Ljava/lang/Object;)V#134#78 prob_bp = 0.00000000000000000000
+org.apache.commons.math.stat.Frequency:addValue:(Ljava/lang/Object;)V#134#77 prob_bp = 0.50000000000000000000
+org.apache.commons.math.stat.Frequency:addValue:(Ljava/lang/Object;)V#134#83 prob_bp = 0.50000000000000000000
+Belief propagation time : 3.501000s

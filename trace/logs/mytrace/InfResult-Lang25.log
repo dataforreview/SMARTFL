@@ -1,0 +1,51 @@
+Belief propagation time: 23
+
+Probabilities: 
+Vars:884
+Stmts:404
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#52#30#unexe#4 prob_bp = 0.49761181213714595000
+org.apache.commons.lang3.text.translate.EntityArrays:ISO8859_1_ESCAPE:()[[Ljava/lang/String;#30#9 prob_bp = 0.49993588071714545000
+org.apache.commons.lang3.text.translate.EntityArrays:ISO8859_1_ESCAPE:()[[Ljava/lang/String;#30#6 prob_bp = 0.49994403315475760000
+org.apache.commons.lang3.text.translate.EntityArrays:ISO8859_1_ESCAPE:()[[Ljava/lang/String;#30#3 prob_bp = 0.49994806860062785000
+org.apache.commons.lang3.text.translate.EntityArrays:ISO8859_1_ESCAPE:()[[Ljava/lang/String;#30#0 prob_bp = 0.49995006607302740000
+org.apache.commons.lang3.text.translate.EntityArrays:<clinit>:()V#31#1727 prob_bp = 0.49995105456593370000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#59#125#unexe#4 prob_bp = 0.49999724637277815000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#55#63#unexe#4 prob_bp = 0.49999857789654320000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#48#0 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#48#7 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#49#8 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#49#15 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#50#19 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#52#23 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#52#24 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#52#26 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#52#28 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#52#29 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#52#30 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#53#33 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#53#34 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#53#35 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#53#37 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#53#38 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#53#39 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#53#40 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#53#45 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#54#47 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#54#48 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#54#49 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#54#51 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#54#52 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#54#53 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#54#54 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#54#59 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#55#61 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#55#63 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#59#123 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#59#125 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#52#185 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#56#66 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#56#67 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#64#191 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#64#193 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.text.translate.EntityArraysTest:testISO8859_1_ESCAPE:()V#64#195 prob_bp = 1.00000000000000000000
+Belief propagation time : 0.096000s

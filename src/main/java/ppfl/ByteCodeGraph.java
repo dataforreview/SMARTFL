@@ -953,7 +953,7 @@ public class ByteCodeGraph {
 				reduceLogger.writeln("\n" + "start " + tChunk.fullname + "\n");
 				tChunk.loop_compress(loopset, reduceLogger);
 			} else {
-				// tChunk.loop_compress(loopset, null);
+				tChunk.loop_compress(loopset, null);
 			}
 		}
 
@@ -1414,6 +1414,8 @@ public class ByteCodeGraph {
 				// throw (e);
 			}
 			if (totalSize > thres) {
+				// resultLogger.writeln("out scale \n");
+				// System.exit(0);
 				break;
 			}
 		}

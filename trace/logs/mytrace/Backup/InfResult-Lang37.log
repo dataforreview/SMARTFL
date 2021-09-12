@@ -1,0 +1,42 @@
+Belief propagation time: 36
+
+Probabilities: 
+Vars:1812
+Stmts:1488
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2962#52 prob_bp = 0.35100114432127570000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2956#10 prob_bp = 0.49012033141717120000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2962#54 prob_bp = 0.49039304009415924000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2956#9 prob_bp = 0.49090540633742535000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2962#51 prob_bp = 0.49151727101301740000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2962#56 prob_bp = 0.49151727101301740000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2954#1 prob_bp = 0.49670827892295677000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2954#0 prob_bp = 0.49677972639511153000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2962#53 prob_bp = 0.49912127505117100000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2960#41 prob_bp = 0.49987066295418170000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2960#38 prob_bp = 0.49998127165775974000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2960#35 prob_bp = 0.49999758886188533000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2960#32 prob_bp = 0.49999999582148160000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2960#26 prob_bp = 0.49999999938167030000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2959#25 prob_bp = 0.49999999990682960000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2959#22 prob_bp = 0.49999999998429545000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2960#31 prob_bp = 0.49999999998860390000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2959#19 prob_bp = 0.49999999999572230000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2960#28 prob_bp = 0.49999999999689580000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2960#30 prob_bp = 0.49999999999705190000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2959#18 prob_bp = 0.49999999999740785000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2960#27 prob_bp = 0.49999999999811895000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2960#29 prob_bp = 0.49999999999829803000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2962#55 prob_bp = 0.50000000000000000000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2962#57 prob_bp = 0.50000000000000000000
+org.apache.commons.lang3.ArrayUtils:addAll:([Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;#2962#58 prob_bp = 0.50000000000000000000
+org.apache.commons.lang3.ArrayUtilsAddTest:testJira567:()V#35#0 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ArrayUtilsAddTest:testJira567:()V#35#1 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ArrayUtilsAddTest:testJira567:()V#35#11 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ArrayUtilsAddTest:testJira567:()V#35#12 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ArrayUtilsAddTest:testJira567:()V#35#24 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ArrayUtilsAddTest:testJira567:()V#40#50 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ArrayUtilsAddTest:testJira567:()V#40#51 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ArrayUtilsAddTest:testJira567:()V#40#61 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ArrayUtilsAddTest:testJira567:()V#40#62 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ArrayUtilsAddTest:testJira567:()V#40#74 prob_bp = 1.00000000000000000000
+Belief propagation time : 0.217000s

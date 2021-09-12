@@ -1,0 +1,28 @@
+Belief propagation time: 100
+
+Probabilities: 
+Vars:41306
+Stmts:2460
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#305#32 prob_bp = 0.48882916778392543000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#305#29 prob_bp = 0.48923261697542675000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#304#26 prob_bp = 0.49371738143655470000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#304#17 prob_bp = 0.49946101035351675000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#304#25 prob_bp = 0.49995365690128640000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#304#24 prob_bp = 0.49995524746912990000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#304#21 prob_bp = 0.49995882231605104000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#304#20 prob_bp = 0.49996027565498270000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#304#16 prob_bp = 0.49999393192045260000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#304#15 prob_bp = 0.49999413095688383000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#304#12 prob_bp = 0.49999446190725844000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#304#11 prob_bp = 0.49999464968801470000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#300#0 prob_bp = 0.55408574373712750000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#300#1 prob_bp = 0.55517916810910150000
+org.apache.commons.math3.complex.Complex:reciprocal:()Lorg/apache/commons/math3/complex/Complex;#300#4 prob_bp = 0.55738977388360610000
+org.apache.commons.math3.complex.Complex:<clinit>:()V#69#65 prob_bp = 0.97089626965384080000
+org.apache.commons.math3.complex.Complex:<clinit>:()V#65#41 prob_bp = 0.99907978307022150000
+org.apache.commons.math3.complex.Complex:<clinit>:()V#62#25 prob_bp = 1.00000000000000000000
+org.apache.commons.math3.complex.ComplexTest:testReciprocalZero:()V#334#0 prob_bp = 1.00000000000000000000
+org.apache.commons.math3.complex.ComplexTest:testReciprocalZero:()V#334#3 prob_bp = 1.00000000000000000000
+org.apache.commons.math3.complex.ComplexTest:testReciprocalZero:()V#334#6 prob_bp = 1.00000000000000000000
+org.apache.commons.math3.complex.ComplexTest:testReciprocalZero:()V#334#9 prob_bp = 1.00000000000000000000
+Belief propagation time : 13.291000s

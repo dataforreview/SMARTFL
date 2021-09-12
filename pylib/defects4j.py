@@ -649,6 +649,8 @@ def eval(proj: str, id: str):
     for line in resultfile.readlines():
         if(line.strip() == '' or line.startswith('Probabilities:') or line.startswith('Vars:') or line.startswith('Stmts:') or line.startswith('Belief propagation time')):
             continue
+        if(line.startswith("out scale")):
+            continue
         sp = line.split(':')
         if(sp.__len__() < 3):
             print(line)

@@ -1,0 +1,39 @@
+Belief propagation time: 21
+
+Probabilities: 
+Vars:184
+Stmts:130
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#910#31 prob_bp = 0.48474093806996266000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#909#38 prob_bp = 0.49611970136014370000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#909#22 prob_bp = 0.49664867299950610000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#909#21 prob_bp = 0.49677925398349615000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#910#30 prob_bp = 0.49740158054657435000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#910#32 prob_bp = 0.49740158054657440000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#910#29 prob_bp = 0.49837304071467714000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#908#20 prob_bp = 0.49957479026333120000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#905#8 prob_bp = 0.49973354748631080000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#905#7 prob_bp = 0.49986094594279820000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#908#17 prob_bp = 0.49986953124333410000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#905#6 prob_bp = 0.49989279560378350000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#908#16 prob_bp = 0.49994177601801065000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#908#15 prob_bp = 0.49995948153701450000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#903#1 prob_bp = 0.49999402048542235000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#903#0 prob_bp = 0.49999529462828140000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#909#26 prob_bp = 0.49999812258262705000
+org.apache.commons.lang3.ArrayUtils:<clinit>:()V#55#4 prob_bp = 0.49999906737127480000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#909#25 prob_bp = 0.49999916114344733000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#909#23 prob_bp = 0.49999930941864895000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#909#24 prob_bp = 0.49999941608052184000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#910#33 prob_bp = 0.50000000000000000000
+org.apache.commons.lang3.ClassUtils:toClass:([Ljava/lang/Object;)[Ljava/lang/Class;#910#34 prob_bp = 0.50000000000000000000
+org.apache.commons.lang3.ClassUtilsTest:testToClass_object:()V#903#0 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ClassUtilsTest:testToClass_object:()V#903#1 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ClassUtilsTest:testToClass_object:()V#905#10 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ClassUtilsTest:testToClass_object:()V#905#13 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ClassUtilsTest:testToClass_object:()V#907#41 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ClassUtilsTest:testToClass_object:()V#907#42 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ClassUtilsTest:testToClass_object:()V#907#67 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ClassUtilsTest:testToClass_object:()V#910#96 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ClassUtilsTest:testToClass_object:()V#910#97 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.ClassUtilsTest:testToClass_object:()V#910#119 prob_bp = 1.00000000000000000000
+Belief propagation time : 0.122000s

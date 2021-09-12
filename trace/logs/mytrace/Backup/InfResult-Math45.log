@@ -1,0 +1,25 @@
+Belief propagation time: 100
+
+Probabilities: 
+Vars:146153
+Stmts:12906
+org.apache.commons.math.linear.OpenMapRealMatrix:<init>:(II)V#52#16 prob_bp = 0.44336859227343410000
+org.apache.commons.math.linear.OpenMapRealMatrix:<init>:(II)V#52#21 prob_bp = 0.44336859227343420000
+org.apache.commons.math.linear.OpenMapRealMatrix:<init>:(II)V#52#17 prob_bp = 0.44336859227343480000
+org.apache.commons.math.linear.OpenMapRealMatrix:<init>:(II)V#52#20 prob_bp = 0.50000000000000010000
+org.apache.commons.math.linear.OpenMapRealMatrix:<init>:(II)V#52#25 prob_bp = 0.50000000000000100000
+org.apache.commons.math.linear.OpenMapRealMatrix:<init>:(II)V#49#1 prob_bp = 0.50872817593837990000
+org.apache.commons.math.linear.AbstractRealMatrix:<init>:(II)V#54#4 prob_bp = 0.51555394255180640000
+org.apache.commons.math.linear.AbstractRealMatrix:<init>:(II)V#54#5 prob_bp = 0.51596672746485420000
+org.apache.commons.math.linear.AbstractRealMatrix:<init>:(II)V#54#6 prob_bp = 0.51627369827004910000
+org.apache.commons.math.linear.OpenMapRealMatrix:<init>:(II)V#49#2 prob_bp = 0.56575498727591390000
+org.apache.commons.math.linear.OpenMapRealMatrix:<init>:(II)V#49#3 prob_bp = 0.57423955111190270000
+org.apache.commons.math.linear.AbstractRealMatrix:<init>:(II)V#57#21 prob_bp = 0.58602582315029600000
+org.apache.commons.math.linear.AbstractRealMatrix:<init>:(II)V#57#22 prob_bp = 0.59443903434667470000
+org.apache.commons.math.linear.AbstractRealMatrix:<init>:(II)V#57#23 prob_bp = 0.59699246809108230000
+org.apache.commons.math.linear.OpenMapRealMatrixTest:testMath679:()V#26#0 prob_bp = 1.00000000000000000000
+org.apache.commons.math.linear.OpenMapRealMatrixTest:testMath679:()V#26#3 prob_bp = 1.00000000000000000000
+org.apache.commons.math.linear.OpenMapRealMatrixTest:testMath679:()V#26#4 prob_bp = 1.00000000000000000000
+org.apache.commons.math.linear.OpenMapRealMatrixTest:testMath679:()V#26#5 prob_bp = 1.00000000000000000000
+org.apache.commons.math.linear.OpenMapRealMatrixTest:testMath679:()V#26#7 prob_bp = 1.00000000000000000000
+Belief propagation time : 80.968000s

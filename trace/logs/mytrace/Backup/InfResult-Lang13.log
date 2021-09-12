@@ -1,0 +1,38 @@
+Belief propagation time: 100
+
+Probabilities: 
+Vars:3192
+Stmts:1321
+org.apache.commons.lang3.SerializationUtils:clone:(Ljava/io/Serializable;)Ljava/io/Serializable;#108#134 prob_bp = 0.48019048690395260000
+org.apache.commons.lang3.SerializationUtils:clone:(Ljava/io/Serializable;)Ljava/io/Serializable;#103#107 prob_bp = 0.48239533061116463000
+org.apache.commons.lang3.SerializationUtils:clone:(Ljava/io/Serializable;)Ljava/io/Serializable;#99#92 prob_bp = 0.48332092052052933000
+org.apache.commons.lang3.SerializationUtils:clone:(Ljava/io/Serializable;)Ljava/io/Serializable;#99#81 prob_bp = 0.48370976815035240000
+org.apache.commons.lang3.SerializationUtils:clone:(Ljava/io/Serializable;)Ljava/io/Serializable;#108#136 prob_bp = 0.50000000000000000000
+org.apache.commons.lang3.SerializationUtils:clone:(Ljava/io/Serializable;)Ljava/io/Serializable;#79#0 prob_bp = 0.95260061913646980000
+org.apache.commons.lang3.SerializationUtils:clone:(Ljava/io/Serializable;)Ljava/io/Serializable;#79#1 prob_bp = 0.95444494659103370000
+org.apache.commons.lang3.SerializationUtils:serialize:(Ljava/io/Serializable;)[B#163#12 prob_bp = 0.99110181779067490000
+org.apache.commons.lang3.SerializationUtils:serialize:(Ljava/io/Serializable;)[B#163#13 prob_bp = 0.99168031071995880000
+org.apache.commons.lang3.SerializationUtils:serialize:(Ljava/io/Serializable;Ljava/io/OutputStream;)V#131#0 prob_bp = 0.99986371222005050000
+org.apache.commons.lang3.SerializationUtils:serialize:(Ljava/io/Serializable;Ljava/io/OutputStream;)V#131#1 prob_bp = 0.99988174031128970000
+org.apache.commons.lang3.SerializationUtils:serialize:(Ljava/io/Serializable;)[B#162#0 prob_bp = 0.99997674728243240000
+org.apache.commons.lang3.SerializationUtils:serialize:(Ljava/io/Serializable;)[B#162#10 prob_bp = 0.99999180346138640000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#369#0 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#369#2 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#369#62 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#63 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#64 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#65 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#66 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#67 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#68 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#69 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#71 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#73 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#74 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#77 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#78 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#80 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#372#81 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#373#83 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.SerializationUtilsTest:testPrimitiveTypeClassSerialization:()V#373#85 prob_bp = 1.00000000000000000000
+Belief propagation time : 0.882000s

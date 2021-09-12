@@ -1,0 +1,54 @@
+Belief propagation time: 35
+
+Probabilities: 
+Vars:102603
+Stmts:835
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#252#124 prob_bp = 0.49999675521149890000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#252#122 prob_bp = 0.49999717322965540000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#250#119 prob_bp = 0.49999988338468970000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#250#115 prob_bp = 0.49999989858310767000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#253#131 prob_bp = 0.49999999439312460000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#253#127 prob_bp = 0.49999999562476316000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ)Ljava/lang/String;#163#7 prob_bp = 0.49999999609185924000
+org.apache.commons.lang3.RandomStringUtils:<clinit>:()V#43#7 prob_bp = 0.49999999616925134000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#253#129 prob_bp = 0.49999999864895717000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#248#113 prob_bp = 0.49999999972276865000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#248#112 prob_bp = 0.49999999999408923000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#248#111 prob_bp = 0.49999999999610210000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#248#110 prob_bp = 0.49999999999610230000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#234#65#unexe#2 prob_bp = 0.49999999999661080000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#234#65#unexe#1 prob_bp = 0.49999999999661100000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ)Ljava/lang/String;#163#1 prob_bp = 0.49999999999669714000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ)Ljava/lang/String;#163#2 prob_bp = 0.49999999999680390000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#234#65 prob_bp = 0.49999999999986980000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#234#64 prob_bp = 0.49999999999988670000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ)Ljava/lang/String;#163#0 prob_bp = 0.50006346132039840000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ)Ljava/lang/String;#163#6 prob_bp = 0.50785959201505840000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ)Ljava/lang/String;#163#10 prob_bp = 0.50817390898467070000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#230#43 prob_bp = 0.51077035856754990000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#230#45 prob_bp = 0.51210697350341330000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#225#0 prob_bp = 0.51898483772114850000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#225#1 prob_bp = 0.52059313232097090000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#227#7 prob_bp = 0.55050100302274780000
+org.apache.commons.lang3.RandomStringUtils:random:(IIIZZ[CLjava/util/Random;)Ljava/lang/String;#227#8 prob_bp = 0.55316928028066930000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#135#0 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#135#1 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#135#2 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#135#5 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#137#17 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#138#18 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#138#19 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#138#22 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#139#23 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#139#30 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#139#32 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#139#35 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#139#36 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#139#39 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#139#41 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#139#44 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#139#47 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#139#48 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#139#50 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.RandomStringUtilsTest:testLANG807:()V#139#53 prob_bp = 1.00000000000000000000
+Belief propagation time : 14.257000s

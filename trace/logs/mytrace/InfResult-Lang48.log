@@ -1,0 +1,53 @@
+Belief propagation time: 100
+
+Probabilities: 
+Vars:56882
+Stmts:5422
+org.apache.commons.lang.builder.EqualsBuilder:isEquals:()Z#831#4 prob_bp = 0.49935332056612647000
+org.apache.commons.lang.builder.EqualsBuilder:isEquals:()Z#831#1 prob_bp = 0.49999733288054100000
+org.apache.commons.lang.builder.EqualsBuilder:isEquals:()Z#831#0 prob_bp = 0.49999897872598450000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#408#326 prob_bp = 0.49999959841794570000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#408#325 prob_bp = 0.49999965032050064000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#381#49 prob_bp = 0.49999995000866340000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#381#43 prob_bp = 0.49999995649809140000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#378#31 prob_bp = 0.50000000057736750000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#378#32 prob_bp = 0.50000000082903430000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#378#35 prob_bp = 0.50000002861474880000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#379#36 prob_bp = 0.50000013856842650000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#379#37 prob_bp = 0.50000057221291340000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#368#0 prob_bp = 0.50000205912380720000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#368#1 prob_bp = 0.50000560302163450000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#381#44 prob_bp = 0.50001006981850970000
+org.apache.commons.lang.builder.EqualsBuilder:<init>:()V#92#4 prob_bp = 0.50014835098475850000
+org.apache.commons.lang.builder.EqualsBuilder:<init>:()V#92#5 prob_bp = 0.50015626986579580000
+org.apache.commons.lang.builder.EqualsBuilder:<init>:()V#92#6 prob_bp = 0.50016025598776880000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#379#40 prob_bp = 0.50016151794840810000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#371#9 prob_bp = 0.50020849632970040000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#371#10 prob_bp = 0.50020851828836930000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#371#11 prob_bp = 0.50026630029122340000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#374#16 prob_bp = 0.50047774713246310000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#368#4 prob_bp = 0.50125715889651660000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#374#17 prob_bp = 0.50178734304688320000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#374#20 prob_bp = 0.50981354954943240000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#374#21 prob_bp = 0.51453857513143330000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#381#45 prob_bp = 0.53138044937346910000
+org.apache.commons.lang.builder.EqualsBuilder:append:(Ljava/lang/Object;Ljava/lang/Object;)Lorg/apache/commons/lang/builder/EqualsBuilder;#381#46 prob_bp = 0.53550827341024470000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#382#0 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#382#9 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#383#10 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#383#19 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#384#20 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#384#23 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#384#24 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#384#27 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#384#28 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#384#29 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#385#38 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#385#41 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#385#42 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#385#45 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#385#46 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#385#47 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#385#50 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.builder.EqualsBuilderTest:testBigDecimal:()V#385#53 prob_bp = 1.00000000000000000000
+Belief propagation time : 27.870000s

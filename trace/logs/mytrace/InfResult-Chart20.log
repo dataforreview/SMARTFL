@@ -1,0 +1,48 @@
+Belief propagation time: 43
+
+Probabilities: 
+Vars:8190
+Stmts:4274
+org.jfree.chart.plot.ValueMarker:<init>:(DLjava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#95#9 prob_bp = 0.49999455333358533000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#189#73 prob_bp = 0.49999684531464245000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#189#71 prob_bp = 0.49999722274032490000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#189#72 prob_bp = 0.49999722274032490000
+org.jfree.chart.plot.ValueMarker:<init>:(DLjava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#95#0 prob_bp = 0.49999738244867200000
+org.jfree.chart.plot.ValueMarker:<init>:(DLjava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#95#4 prob_bp = 0.49999738244867200000
+org.jfree.chart.plot.ValueMarker:<init>:(DLjava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#95#7 prob_bp = 0.49999992455477240000
+org.jfree.chart.plot.ValueMarker:<init>:(DLjava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#95#2 prob_bp = 0.49999997499433063000
+org.jfree.chart.plot.ValueMarker:<init>:(DLjava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#95#1 prob_bp = 0.49999999677210290000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#177#9 prob_bp = 0.50000049820549190000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#177#10 prob_bp = 0.50000062676434200000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#183#37 prob_bp = 0.50000318310980720000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#183#39 prob_bp = 0.50000352831890530000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#183#40 prob_bp = 0.50000366811697570000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#180#23 prob_bp = 0.50001224070809320000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#180#24 prob_bp = 0.50001409742442030000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#183#44 prob_bp = 0.50003724182059000000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#183#46 prob_bp = 0.50004089858189400000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#183#47 prob_bp = 0.50004236017180540000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#183#41 prob_bp = 0.50072789746797560000
+org.jfree.chart.plot.Marker:<init>:(Ljava/awt/Paint;Ljava/awt/Stroke;Ljava/awt/Paint;Ljava/awt/Stroke;F)V#183#48 prob_bp = 0.50622985152515000000
+org.jfree.chart.util.UnitType:<clinit>:()V#58#9 prob_bp = 0.50900337805652380000
+org.jfree.chart.util.RectangleInsets:<init>:(DDDD)V#79#1 prob_bp = 0.50918048596349690000
+org.jfree.chart.util.RectangleInsets:<init>:(DDDD)V#79#10 prob_bp = 0.50978772012947780000
+org.jfree.chart.util.RectangleInsets:<init>:(Lorg/jfree/chart/util/UnitType;DDDD)V#94#4 prob_bp = 0.51186635489129010000
+org.jfree.chart.util.RectangleInsets:<init>:(Lorg/jfree/chart/util/UnitType;DDDD)V#94#5 prob_bp = 0.51889233570538130000
+org.jfree.chart.plot.Marker:getOutlinePaint:()Ljava/awt/Paint;#265#1 prob_bp = 0.66561946133681340000
+org.jfree.chart.plot.Marker:getOutlinePaint:()Ljava/awt/Paint;#265#4 prob_bp = 0.99008626325786510000
+org.jfree.chart.plot.Marker:getOutlinePaint:()Ljava/awt/Paint;#265#0 prob_bp = 0.99009866190745230000
+org.jfree.chart.plot.junit.ValueMarkerTests:test1808376:()V#290#0 prob_bp = 1.00000000000000000000
+org.jfree.chart.plot.junit.ValueMarkerTests:test1808376:()V#290#8 prob_bp = 1.00000000000000000000
+org.jfree.chart.plot.junit.ValueMarkerTests:test1808376:()V#292#18 prob_bp = 1.00000000000000000000
+org.jfree.chart.plot.junit.ValueMarkerTests:test1808376:()V#292#21 prob_bp = 1.00000000000000000000
+org.jfree.chart.plot.junit.ValueMarkerTests:test1808376:()V#292#23 prob_bp = 1.00000000000000000000
+org.jfree.chart.plot.junit.ValueMarkerTests:test1808376:()V#292#26 prob_bp = 1.00000000000000000000
+org.jfree.chart.plot.junit.ValueMarkerTests:test1808376:()V#292#31 prob_bp = 1.00000000000000000000
+org.jfree.chart.plot.junit.ValueMarkerTests:test1808376:()V#292#33 prob_bp = 1.00000000000000000000
+org.jfree.chart.plot.junit.ValueMarkerTests:test1808376:()V#292#36 prob_bp = 1.00000000000000000000
+org.jfree.chart.plot.junit.ValueMarkerTests:test1808376:()V#297#66 prob_bp = 1.00000000000000000000
+org.jfree.chart.plot.junit.ValueMarkerTests:test1808376:()V#297#69 prob_bp = 1.00000000000000000000
+org.jfree.chart.plot.junit.ValueMarkerTests:test1808376:()V#297#70 prob_bp = 1.00000000000000000000
+org.jfree.chart.plot.junit.ValueMarkerTests:test1808376:()V#297#73 prob_bp = 1.00000000000000000000
+Belief propagation time : 1.648000s

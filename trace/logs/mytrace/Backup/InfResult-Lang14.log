@@ -1,0 +1,29 @@
+Belief propagation time: 100
+
+Probabilities: 
+Vars:375
+Stmts:269
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z#782#1 prob_bp = 0.50164090529979240000
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z#782#0 prob_bp = 0.50164091455169360000
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z#782#2 prob_bp = 0.50167843592226660000
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z#785#7 prob_bp = 0.51527561315221390000
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z#785#8 prob_bp = 0.51648753904133100000
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z#785#11 prob_bp = 0.56897038340852350000
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z#785#12 prob_bp = 0.57145946603565270000
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z#788#22 prob_bp = 0.99005052543872520000
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z#788#17 prob_bp = 0.99293379620138440000
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z#788#18 prob_bp = 0.99293397500929160000
+org.apache.commons.lang3.StringUtils:equals:(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Z#788#19 prob_bp = 0.99979652784895030000
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest:testEquals:()V#487#0 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest:testEquals:()V#487#2 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest:testEquals:()V#488#9 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest:testEquals:()V#488#10 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest:testEquals:()V#488#11 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest:testEquals:()V#489#17 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest:testEquals:()V#489#18 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest:testEquals:()V#489#19 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest:testEquals:()V#490#25 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest:testEquals:()V#490#26 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest:testEquals:()V#490#35 prob_bp = 1.00000000000000000000
+org.apache.commons.lang3.StringUtilsEqualsIndexOfTest:testEquals:()V#490#38 prob_bp = 1.00000000000000000000
+Belief propagation time : 0.180000s

@@ -1,0 +1,19 @@
+Belief propagation time: 14
+
+Probabilities: 
+Vars:40
+Stmts:32
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator:generateToolTipFragment:(Ljava/lang/String;)Ljava/lang/String;#65#24 prob_bp = 0.49484709251749864000
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator:generateToolTipFragment:(Ljava/lang/String;)Ljava/lang/String;#65#21 prob_bp = 0.49737285705491113000
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator:generateToolTipFragment:(Ljava/lang/String;)Ljava/lang/String;#65#18 prob_bp = 0.49862311050093033000
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator:generateToolTipFragment:(Ljava/lang/String;)Ljava/lang/String;#65#16 prob_bp = 0.49865037563952590000
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator:generateToolTipFragment:(Ljava/lang/String;)Ljava/lang/String;#65#13 prob_bp = 0.49893564260609913000
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator:generateToolTipFragment:(Ljava/lang/String;)Ljava/lang/String;#65#12 prob_bp = 0.49895671899013655000
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator:generateToolTipFragment:(Ljava/lang/String;)Ljava/lang/String;#65#9 prob_bp = 0.49901376781908850000
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator:generateToolTipFragment:(Ljava/lang/String;)Ljava/lang/String;#65#0 prob_bp = 0.49903329716920560000
+org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator:generateToolTipFragment:(Ljava/lang/String;)Ljava/lang/String;#65#7 prob_bp = 0.49903329716920560000
+org.jfree.chart.imagemap.junit.StandardToolTipTagFragmentGeneratorTests:testGenerateURLFragment:()V#80#19 prob_bp = 1.00000000000000000000
+org.jfree.chart.imagemap.junit.StandardToolTipTagFragmentGeneratorTests:testGenerateURLFragment:()V#80#22 prob_bp = 1.00000000000000000000
+org.jfree.chart.imagemap.junit.StandardToolTipTagFragmentGeneratorTests:testGenerateURLFragment:()V#80#24 prob_bp = 1.00000000000000000000
+org.jfree.chart.imagemap.junit.StandardToolTipTagFragmentGeneratorTests:testGenerateURLFragment:()V#80#27 prob_bp = 1.00000000000000000000
+Belief propagation time : 0.031000s

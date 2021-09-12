@@ -151,7 +151,7 @@ public class GraphBuilder {
 
     // shutdownhook not working when using exec:java.
     WriterUtils.cleanup().run();
-    boolean logparsetime = false;
+    boolean logparsetime = true;
     if(logparsetime){
       long endTime = System.currentTimeMillis();
       long thetime = endTime - startTime;

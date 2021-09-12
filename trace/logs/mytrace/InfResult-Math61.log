@@ -1,0 +1,37 @@
+Belief propagation time: 93
+
+Probabilities: 
+Vars:52405
+Stmts:8862
+org.apache.commons.math.MathRuntimeException:access$000:(Ljava/util/Locale;Lorg/apache/commons/math/exception/util/Localizable;[Ljava/lang/Object;)Ljava/lang/String;#39#6 prob_bp = 0.49784474786815675000
+org.apache.commons.math.MathRuntimeException:buildMessage:(Ljava/util/Locale;Lorg/apache/commons/math/exception/util/Localizable;[Ljava/lang/Object;)Ljava/lang/String;#136#19 prob_bp = 0.49936926920870070000
+org.apache.commons.math.MathRuntimeException:buildMessage:(Ljava/util/Locale;Lorg/apache/commons/math/exception/util/Localizable;[Ljava/lang/Object;)Ljava/lang/String;#136#16 prob_bp = 0.49982657614272760000
+org.apache.commons.math.MathRuntimeException:buildMessage:(Ljava/util/Locale;Lorg/apache/commons/math/exception/util/Localizable;[Ljava/lang/Object;)Ljava/lang/String;#136#0 prob_bp = 0.49983217430665880000
+org.apache.commons.math.MathRuntimeException:buildMessage:(Ljava/util/Locale;Lorg/apache/commons/math/exception/util/Localizable;[Ljava/lang/Object;)Ljava/lang/String;#136#15 prob_bp = 0.49986904661379394000
+org.apache.commons.math.MathRuntimeException:access$000:(Ljava/util/Locale;Lorg/apache/commons/math/exception/util/Localizable;[Ljava/lang/Object;)Ljava/lang/String;#39#3 prob_bp = 0.49988177809993284000
+org.apache.commons.math.MathRuntimeException:access$000:(Ljava/util/Locale;Lorg/apache/commons/math/exception/util/Localizable;[Ljava/lang/Object;)Ljava/lang/String;#39#2 prob_bp = 0.49988559458839310000
+org.apache.commons.math.distribution.PoissonDistributionImpl:<init>:(DDI)V#97#52 prob_bp = 0.50001210120179460000
+org.apache.commons.math.distribution.PoissonDistributionImpl:<init>:(DDI)V#97#53 prob_bp = 0.50001242580192770000
+org.apache.commons.math.distribution.PoissonDistributionImpl:<init>:(DDI)V#97#56 prob_bp = 0.50002355471332740000
+org.apache.commons.math.distribution.NormalDistributionImpl:<init>:(DD)V#65#2 prob_bp = 0.50376148317233020000
+org.apache.commons.math.distribution.NormalDistributionImpl:<init>:(DD)V#65#6 prob_bp = 0.50386467677052870000
+org.apache.commons.math.distribution.NormalDistributionImpl:<init>:(DDD)V#80#20 prob_bp = 0.50407831876888820000
+org.apache.commons.math.distribution.NormalDistributionImpl:<init>:(DDD)V#80#21 prob_bp = 0.50452442128603890000
+org.apache.commons.math.distribution.NormalDistributionImpl:setStandardDeviationInternal:(D)V#141#0 prob_bp = 0.50702567436965460000
+org.apache.commons.math.distribution.NormalDistributionImpl:setStandardDeviationInternal:(D)V#141#1 prob_bp = 0.50914909687942180000
+org.apache.commons.math.distribution.NormalDistributionImpl:setStandardDeviationInternal:(D)V#141#2 prob_bp = 0.50933969045831550000
+org.apache.commons.math.util.FastMath:sqrt:(D)D#219#0 prob_bp = 0.51025439511007310000
+org.apache.commons.math.util.FastMath:sqrt:(D)D#219#1 prob_bp = 0.51105154206440010000
+org.apache.commons.math.util.FastMath:sqrt:(D)D#219#4 prob_bp = 0.51266194363555480000
+org.apache.commons.math.distribution.PoissonDistributionImpl:<init>:(DDI)V#93#17 prob_bp = 0.51271548587207620000
+org.apache.commons.math.distribution.PoissonDistributionImpl:<init>:(DDI)V#93#18 prob_bp = 0.51281059193937170000
+org.apache.commons.math.distribution.PoissonDistributionImpl:<init>:(DDI)V#93#19 prob_bp = 0.51306667987290300000
+org.apache.commons.math.distribution.PoissonDistributionImpl:<init>:(DDI)V#93#20 prob_bp = 0.64962706802593220000
+org.apache.commons.math.distribution.PoissonDistributionImpl:<init>:(D)V#80#1 prob_bp = 0.78526831275254960000
+org.apache.commons.math.distribution.NormalDistributionImpl:setStandardDeviationInternal:(D)V#141#3 prob_bp = 0.94529802756278610000
+org.apache.commons.math.distribution.PoissonDistributionImpl:<init>:(D)V#80#7 prob_bp = 0.99432771118294030000
+org.apache.commons.math.distribution.PoissonDistributionTest:makeDistribution:()Lorg/apache/commons/math/distribution/IntegerDistribution;#49#4 prob_bp = 1.00000000000000000000
+org.apache.commons.math.distribution.PoissonDistributionTest:makeDistribution:()Lorg/apache/commons/math/distribution/IntegerDistribution;#49#7 prob_bp = 1.00000000000000000000
+org.apache.commons.math.distribution.PoissonDistributionTest:testMean:()V#140#4 prob_bp = 1.00000000000000000000
+org.apache.commons.math.distribution.PoissonDistributionTest:testMean:()V#140#7 prob_bp = 1.00000000000000000000
+Belief propagation time : 13.472000s

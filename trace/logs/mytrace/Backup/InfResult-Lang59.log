@@ -1,0 +1,43 @@
+Belief propagation time: 100
+
+Probabilities: 
+Vars:36503
+Stmts:7520
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#884#47 prob_bp = 0.44555374252487330000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#884#50 prob_bp = 0.44555374252487330000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#884#54 prob_bp = 0.44555374252487330000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#884#45 prob_bp = 0.49895069737769526000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#881#30 prob_bp = 0.49922500725896820000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#881#27 prob_bp = 0.49930701233248126000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#881#26 prob_bp = 0.49933146176724924000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#883#42 prob_bp = 0.49942027077758805000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#883#41 prob_bp = 0.49943793329081143000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#884#48 prob_bp = 0.49964317850727490000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#883#39 prob_bp = 0.49983369821231890000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#882#37 prob_bp = 0.49986574823804575000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#881#16 prob_bp = 0.49987001292104080000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#881#15 prob_bp = 0.49987397507862014000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#882#34 prob_bp = 0.49999250305569750000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#882#32 prob_bp = 0.49999600847078420000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#884#58 prob_bp = 0.49999999999999994000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#884#51 prob_bp = 0.50000000000000000000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#884#55 prob_bp = 0.50000000000000000000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#879#0 prob_bp = 0.53392410153300960000
+org.apache.commons.lang.text.StrBuilder:appendFixedWidthPadRight:(Ljava/lang/Object;IC)Lorg/apache/commons/lang/text/StrBuilder;#879#1 prob_bp = 0.53465150050855450000
+org.apache.commons.lang.text.StrBuilder:<init>:(I)V#108#4 prob_bp = 0.99999976662307740000
+org.apache.commons.lang.text.StrBuilder:<init>:(I)V#108#5 prob_bp = 0.99999981207144760000
+org.apache.commons.lang.text.StrBuilderAppendInsertTest:testLang299:()V#601#0 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.text.StrBuilderAppendInsertTest:testLang299:()V#601#3 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.text.StrBuilderAppendInsertTest:testLang299:()V#601#4 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.text.StrBuilderAppendInsertTest:testLang299:()V#601#5 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.text.StrBuilder:<init>:(I)V#108#5#unexe#1 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.text.StrBuilder:<init>:(I)V#111#11 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.text.StrBuilder:<init>:(I)V#111#12 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.text.StrBuilder:<init>:(I)V#111#13 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.text.StrBuilder:<init>:(I)V#111#15 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.text.StrBuilderAppendInsertTest:testLang299:()V#601#8 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.text.StrBuilderAppendInsertTest:testLang299:()V#602#9 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.text.StrBuilderAppendInsertTest:testLang299:()V#602#10 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.text.StrBuilderAppendInsertTest:testLang299:()V#602#12 prob_bp = 1.00000000000000000000
+org.apache.commons.lang.text.StrBuilderAppendInsertTest:testLang299:()V#602#15 prob_bp = 1.00000000000000000000
+Belief propagation time : 12.262000s

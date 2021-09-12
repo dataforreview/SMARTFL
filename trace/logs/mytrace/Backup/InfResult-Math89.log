@@ -1,0 +1,16 @@
+Belief propagation time: 50
+
+Probabilities: 
+Vars:10070
+Stmts:1343
+org.apache.commons.math.stat.Frequency:addValue:(Ljava/lang/Object;)V#110#0 prob_bp = 0.00000000000000000000
+org.apache.commons.math.stat.Frequency:addValue:(Ljava/lang/Object;)V#110#1 prob_bp = 0.00000000000000000000
+org.apache.commons.math.stat.Frequency:addValue:(Ljava/lang/Object;)V#110#2 prob_bp = 0.50000000000000000000
+org.apache.commons.math.stat.FrequencyTest:setUp:()V#52#0 prob_bp = 1.00000000000000000000
+org.apache.commons.math.stat.FrequencyTest:setUp:()V#52#1 prob_bp = 1.00000000000000000000
+org.apache.commons.math.stat.FrequencyTest:setUp:()V#52#8 prob_bp = 1.00000000000000000000
+org.apache.commons.math.stat.FrequencyTest:testAddNonComparable:()V#195#0 prob_bp = 1.00000000000000000000
+org.apache.commons.math.stat.FrequencyTest:testAddNonComparable:()V#195#1 prob_bp = 1.00000000000000000000
+org.apache.commons.math.stat.FrequencyTest:testAddNonComparable:()V#195#4 prob_bp = 1.00000000000000000000
+org.apache.commons.math.stat.FrequencyTest:testAddNonComparable:()V#195#11 prob_bp = 1.00000000000000000000
+Belief propagation time : 3.852000s

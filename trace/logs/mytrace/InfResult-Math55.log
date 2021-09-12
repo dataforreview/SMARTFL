@@ -1,0 +1,55 @@
+Belief propagation time: 100
+
+Probabilities: 
+Vars:108054
+Stmts:5460
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#51 prob_bp = 0.50000000478891250000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#46 prob_bp = 0.50000000478895050000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#42 prob_bp = 0.50000000479542200000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#55 prob_bp = 0.50000000479545860000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#52 prob_bp = 0.50000000488580010000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#47 prob_bp = 0.50000000488583900000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#43 prob_bp = 0.50000000489244120000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#56 prob_bp = 0.50000000489247880000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#59 prob_bp = 0.50000000613749560000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#50 prob_bp = 0.50000000613749610000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#60 prob_bp = 0.50000005742358130000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#3 prob_bp = 0.50004216383979740000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#61 prob_bp = 0.50005319200263300000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#64 prob_bp = 0.50024274960016880000
+org.apache.commons.math.geometry.Vector3D:crossProduct:(Lorg/apache/commons/math/geometry/Vector3D;Lorg/apache/commons/math/geometry/Vector3D;)Lorg/apache/commons/math/geometry/Vector3D;#473#0 prob_bp = 0.50027922670064120000
+org.apache.commons.math.geometry.Vector3D:<init>:(DDD)V#95#10 prob_bp = 0.52521327619524470000
+org.apache.commons.math.geometry.Vector3D:<init>:(DDD)V#95#9 prob_bp = 0.52521331956329640000
+org.apache.commons.math.geometry.Vector3D:<init>:(DDD)V#95#11 prob_bp = 0.52569497756307880000
+org.apache.commons.math.geometry.Vector3D:<init>:(DDD)V#94#5 prob_bp = 0.52647287017931080000
+org.apache.commons.math.geometry.Vector3D:<init>:(DDD)V#94#4 prob_bp = 0.52647291382296690000
+org.apache.commons.math.geometry.Vector3D:<init>:(DDD)V#94#6 prob_bp = 0.52697570301075570000
+org.apache.commons.math.geometry.Vector3D:getZ:()D#197#0 prob_bp = 0.74178452129701290000
+org.apache.commons.math.geometry.Vector3D:getZ:()D#197#1 prob_bp = 0.74667032911642570000
+org.apache.commons.math.geometry.Vector3D:getZ:()D#197#4 prob_bp = 0.78213508622233800000
+org.apache.commons.math.geometry.Vector3D:<init>:(DDD)V#96#15 prob_bp = 0.81084041972147240000
+org.apache.commons.math.geometry.Vector3D:<init>:(DDD)V#96#14 prob_bp = 0.81084561893639870000
+org.apache.commons.math.geometry.Vector3D:<init>:(DDD)V#96#17 prob_bp = 0.81417142452921410000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#157#0 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#157#3 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#157#4 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#157#7 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#157#11 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#157#14 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#158#15 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#158#18 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#158#19 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#158#22 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#158#26 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#158#29 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#159#31 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#159#32 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#159#33 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#159#42 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:testCrossProductCancellation:()V#159#43 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:checkVector:(Lorg/apache/commons/math/geometry/Vector3D;DDD)V#242#23 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:checkVector:(Lorg/apache/commons/math/geometry/Vector3D;DDD)V#242#25 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:checkVector:(Lorg/apache/commons/math/geometry/Vector3D;DDD)V#242#26 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:checkVector:(Lorg/apache/commons/math/geometry/Vector3D;DDD)V#242#29 prob_bp = 1.00000000000000000000
+org.apache.commons.math.geometry.Vector3DTest:checkVector:(Lorg/apache/commons/math/geometry/Vector3D;DDD)V#242#32 prob_bp = 1.00000000000000000000
+Belief propagation time : 60.367000s

@@ -1,0 +1,7 @@
+Belief propagation time: 100
+
+Probabilities: 
+Vars:16839
+Stmts:3272
+org.apache.commons.lang.enums.ValuedEnumTest:testCompareTo_otherEnumType:()V#108#10 prob_bp = 1.00000000000000000000
+Belief propagation time : 4.851000s
