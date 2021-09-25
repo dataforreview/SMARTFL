@@ -7,6 +7,7 @@ from typing import Any, Dict, List, Set
 import json
 from multiprocessing import Pool, TimeoutError
 import re
+from os.path import join, getsize
 
 alld4jprojs = ["Chart", "Cli", "Closure", "Codec", "Collections", "Compress", "Csv", "Gson",
                "JacksonCore", "JacksonDatabind", "JacksonXml", "Jsoup", "JxPath", "Lang", "Math", "Mockito", "Time"]
@@ -29,6 +30,11 @@ def utf8open_a(filename):
 checkoutbase = utf8open('checkout.config').readline().strip()
 projectbase = os.path.abspath(".")
 
+def getdirsize(dir:str):
+    size = 0
+    for root, dirs, files in os.walk(dir):
+        size += sum([getsize(join(root, name)) for name in files])
+    return size
 
 def getd4jprojinfo():
     for proj in alld4jprojs:
@@ -347,7 +353,10 @@ def rund4j(proj: str, id: str, debug=True):
         pool.close()
         pool.join()
     # os.system(cmdlines[0])
-    with Pool(processes=16) as pool:
+    processesnum = 16
+    if proj == 'Time':
+        processesnum = 1
+    with Pool(processes=processesnum) as pool:
         pool.map(os.system, cmdlines[1:])
         pool.close()
         pool.join()
@@ -369,6 +378,10 @@ def rerun(proj: str, id: str):
 
 
 def parse(proj: str, id: str, debug=True):
+    path = f"{checkoutbase}/{proj}/{id}/trace/logs/run"
+    size = getdirsize(path)/(1024*1024)
+    if(size>3000):
+        return
     cmdline = f'mvn compile -q && mvn exec:java "-Dexec.mainClass=ppfl.defects4j.GraphBuilder" "-Dexec.args={proj} {id}"'
     if(not debug):
         cmdline += '>/dev/null 2>&1'

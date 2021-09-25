@@ -31,26 +31,18 @@ def parse(file_lines):
     for i in range(1,66):
         if i in Lang:
             Langtotal += Lang[i]
-        else:
-            print(f'Lang{i}not in')
     Mathtotal = 0
     for i in range(1,107):
         if i in Math:
             Mathtotal += Math[i]
-        else:
-            print(f'Math{i}not in')
     Charttotal = 0
     for i in range(1,27):
         if i in Chart:
             Charttotal += Chart[i]
-        else:
-            print(f'Chart{i}not in')
     Timetotal = 0
     for i in range(1,28):
         if i in Time:
             Timetotal += Time[i]
-        else:
-            print(f'Time{i}not in')
     print (f'Lang total = {Langtotal}\nMath total = {Mathtotal}\nChart total = {Charttotal}\nTime toal = {Timetotal}')
     print (f'Lang average = {Langtotal/64}')
     print (f'Math average = {Mathtotal/106}')
@@ -62,8 +54,8 @@ if __name__ == '__main__':
     print('parse:')
     parsetime = utf8open('parsetime').readlines()
     parsetotaltime = parse(parsetime)
-    print(parsetotaltime/(64+105+26+26))
-    print('trace:')
+    print(f'average parse time {parsetotaltime/(64+105+26+26)}')
+    print('\ntrace:')
     tracetime = utf8open('tracetime').readlines()
     tracetotaltime = parse(tracetime)
-    print(tracetotaltime/(64+105+26+26))
+    print(f'average trace time {tracetotaltime/(64+105+26+26)}')
